@@ -1,5 +1,5 @@
 {
-  "name": "api-clientes",
+  "name": "api-sql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alientapia/api-clientes.git"
+    "url": "git+https://github.com/alientapia/api-sql.git"
   },
   "author": "Alien Tapia Salvador",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alientapia/api-clientes/issues"
+    "url": "https://github.com/alientapia/api-sql/issues"
   },
-  "homepage": "https://github.com/alientapia/api-clientes#readme",
+  "homepage": "https://github.com/alientapia/api-sql#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
